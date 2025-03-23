@@ -6,7 +6,9 @@ Sou apaixonada por tecnologia e programação, sempre em busca de aprender algo 
 🌐 **Tecnologias do meu dia a dia:**
 
 HTML5 | JavaScript | Node.js
+
 Python | PHP | MySQL | React | 
+
 Git | Java | Bootstrap | C++
 
 ---
