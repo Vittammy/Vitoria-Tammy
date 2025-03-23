@@ -1,4 +1,4 @@
-# **Vitória Tammy**
+# **Vitória Tammy** ✍️
 Sou apaixonada por tecnologia e programação, sempre em busca de aprender algo novo e de aplicar esses conhecimentos para resolver problemas de forma criativa. Já com um curso técnico e agora no caminho da graduação, estou crescendo e me desafiando a cada dia.
 
 ---
@@ -6,9 +6,7 @@ Sou apaixonada por tecnologia e programação, sempre em busca de aprender algo 
 🌐 **Tecnologias do meu dia a dia:**
 
 HTML5 | JavaScript | Node.js
-
 Python | PHP | MySQL | React | 
-
 Git | Java | Bootstrap | C++
 
 ---
