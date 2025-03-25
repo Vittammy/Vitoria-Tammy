@@ -9,7 +9,7 @@ HTML5 | JavaScript | Node.js
 
 Python | PHP | MySQL | React | 
 
-Git | Java | Bootstrap | C++
+Git | Java | Bootstrap | CSS
 
 ---
 
